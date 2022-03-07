@@ -71,4 +71,8 @@ sudo vim /etc/vim/vimrc
     - **末行模式**是`vi`的**出口**
   3. **编辑模式**--正常的编辑文字
 ![image](https://user-images.githubusercontent.com/12490550/156856171-9859d91c-ccb6-44aa-82f7-7c2f5de03798.png)
-> *提示`Touch Bar`的Mac电脑上，按`Esc`不方便，可以用`Ctrl+[`替代
+> *提示`Touch Bar`的Mac电脑上，按`Esc`不方便，可以用`Ctrl+[`替代*
+## 末行命令模式
+|命令|英文|功能|
+|---|---|---|
+|w|write|保存|
