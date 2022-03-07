@@ -76,3 +76,7 @@ sudo vim /etc/vim/vimrc
 |命令|英文|功能|
 |---|---|---|
 |w|write|保存|
+|q|quit|退出，没有保存，不允许退出|
+|q!|quit|强行退出、不保存退出|
+|wq|write & quit|保存并退出|
+|x||保存并退出|
